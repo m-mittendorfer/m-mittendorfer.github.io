@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in English Linguistics, University of Vienna, 2025 (expected)
+* MA in English language and linguistics, University of Vienna, 2020
+* BA in Slavonic Studies (Russian), University of Vienna, 2018
+* BA in English and American Studies, University of Vienna, 2017
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2021 - present: University Assistant (pre-doc)
+  * University of Vienna, Department of English and American Studies
 
-* Fall 2015: Research Assistant
+* September 2020 -  July 2021: Linguistic Consultant
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: phonemic/phonetic transcription, language localisation
+
+* September 2018 -  August 2020: Academic Tutor 
+  * University of Vienna, Department of English and American Studies
+  * Duties included: teaching a tutorial on English syntax and grammar to undergraduate students  
   
 Skills
 ======
