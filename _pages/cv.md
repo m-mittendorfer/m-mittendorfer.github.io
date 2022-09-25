@@ -11,24 +11,47 @@ redirect_from:
 
 Education
 ======
-* PhD in English Linguistics, University of Vienna, 2025 (expected)
-* MA in English language and linguistics, University of Vienna, 2020
-* BA in Slavonic Studies (Russian), University of Vienna, 2018
-* BA in English and American Studies, University of Vienna, 2017
+* PhD in _English Linguistics_, University of Vienna, 2025 (expected)
+* MA in _English language and linguistics_, University of Vienna, 2020
+* BA in _Slavonic Studies (Russian)_, University of Vienna, 2018
+* BA in _English and American Studies_, University of Vienna, 2017
 
 
 Work experience
 ======
-* September 2021 - present: __University Assistant (pre-doc)__
+* September 2021 - present: _University Assistant (pre-doc)_
   * University of Vienna, Department of English and American Studies
 
-* September 2020 -  July 2021: Linguistic Consultant
+* September 2020 -  July 2021: _Linguistic Consultant_
   * freelance
   * Duties included: phonemic/phonetic transcription, language localisation
 
-* September 2018 -  August 2020: Academic Tutor 
+* September 2018 -  August 2020: _Academic Tutor_
   * University of Vienna, Department of English and American Studies
   * Duties included: teaching a tutorial on English syntax and grammar to undergraduate students  
+
+Academic experience
+======
+* January 2021: _V-NYI, online_
+  * Winter School (St. Petersburg Institute of Linguistics, Cognition and Culture)
+  * Courses in theoretical linguistics (Applied Phonetics, Phonology, Experimental Linguistics, Formal Semantics)
+
+* August 2019: _Belarusian State University, Minsk, Belarus_
+  * Summer School
+  * Courses in Russian and Belarusian Culture
+
+* July 2019: _NYI, St. Petersburg, Russia_
+  * Summer School (St. Petersburg Institute of Linguistics, Cognition and Culture)
+  * Courses in theoretical linguistics (Typology, Distributed Morphology, Formal Semantics, Syntax, Language Acquisition)
+
+* August 2018: _Belarusian State University, Minsk, Belarus_
+  * Summer School
+  * Courses in Russian and Belarusian Culture
+
+* August 2015 - January 2016: _University of Exeter, UK_
+  * Erasmus Semester
+  * Modules covering Russian Literary Studies
+
   
 Skills
 ======
