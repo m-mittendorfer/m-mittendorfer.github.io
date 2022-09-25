@@ -4,16 +4,9 @@ collection: teaching
 type: "Undergraduate tutorial"
 permalink: /teaching/2014-winter-teaching-1
 venue: "University of Vienna, Department of English and American Studies"
-location: "City, Country"
+date: 2018-10-01
+location: "Vienna, Austria"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught a weekly tutorial on English Syntax & Grammar
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
