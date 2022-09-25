@@ -19,11 +19,11 @@ Education
 
 Work experience
 ======
-* September 2021 - present: University Assistant (pre-doc)
+* September 2021 - present: __University Assistant (pre-doc)__
   * University of Vienna, Department of English and American Studies
 
 * September 2020 -  July 2021: Linguistic Consultant
-  * Github University
+  * freelance
   * Duties included: phonemic/phonetic transcription, language localisation
 
 * September 2018 -  August 2020: Academic Tutor 
