@@ -1,5 +1,5 @@
 ---
-title: "TR BEd 02.1: Grammar in Use"
+title: "TR BEd 02.1: Grammar in Use (WS 2018)"
 collection: teaching
 type: "Undergraduate tutorial"
 permalink: /teaching/2014-winter-teaching-1
@@ -8,5 +8,5 @@ date: 2018-10-01
 location: "Vienna, Austria"
 ---
 
-Taught a weekly tutorial on English Syntax & Grammar
+Taught a weekly tutorial on English Syntax & Grammar 
 
