@@ -1,10 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "TR BEd 02.1: Grammar in Use"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Undergraduate tutorial"
+permalink: /teaching/2014-winter-teaching-1
+venue: "University of Vienna, Department of English and American Studies"
 location: "City, Country"
 ---
 
