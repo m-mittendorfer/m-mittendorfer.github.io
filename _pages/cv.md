@@ -55,12 +55,15 @@ Academic experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages:
+  * German: native
+  * English: C2
+  * Russian: B2
+  * Slovak A1-A2
+
+* Software
+  * LaTeX
+  * R(studio)
 
 Publications
 ======
