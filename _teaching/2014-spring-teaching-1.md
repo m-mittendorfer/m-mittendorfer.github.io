@@ -1,9 +1,20 @@
 ---
-title: "TR BEd 02.1: Grammar in Use"
+title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate tutorial"
-permalink: /teaching/2018-winter-teaching-1
-venue: "University of Vienna, Department of English and American Studies"
-date: 2018W
-location: "Vienna, Austria"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
