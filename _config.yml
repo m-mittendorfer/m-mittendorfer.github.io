@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "[M]"
+title                    : "[m]"
 title_separator          : "-"
 name                     : &name "Matthias Mittendorfer"
 description              : &description "personal description"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         
+  facebook         :
   foursquare       :
   github           : "m-mittendorfer"
   google_plus      :
