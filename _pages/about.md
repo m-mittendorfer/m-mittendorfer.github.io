@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Welcome 
 
 Originally from Upper Austria, I studied _English and American Studies_, as well as _Slavonic Studies_ (Russian) at the University of Vienna. In 2017, I continued into the MA program _English Language & Linguistics_ at the University of Vienna, from which I graduated with distinction in 2020. In 2021, I started a position as a pre-doc university assistant in English linguistics at the Department of English and American Studies at the University of Vienna.
 
