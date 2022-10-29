@@ -8,5 +8,9 @@ date: 2018-10-01
 location: "Vienna, Austria"
 ---
 
-Taught a weekly tutorial on English Syntax & Grammar 
+Taught a weekly tutorial on English Syntax & Grammar. Topics covered included 
+* Constituency structure
+* NP structure
+* Information packaging constructions
+* Tense & aspect
 
