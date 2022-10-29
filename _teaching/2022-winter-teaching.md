@@ -8,3 +8,4 @@ date: 2022-10-01
 location: "Vienna, Austria"
 ---
 
+Taught a weekly proseminar on academic writing skills and the English noun phrase. Topics covered included, among others, _NP structure_, _headedness_, _pre- and post-head dependents_, as well as _research skills_ (e.g. working with stylesheets, plagiarism, correct referencing, paper structure).
