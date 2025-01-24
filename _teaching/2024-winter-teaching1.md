@@ -1,5 +1,5 @@
 ---
-title: "AR Phonetic Transcription (WS 2023)"
+title: "AR Phonetic Transcription (WS 2024)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-winter-teaching1
