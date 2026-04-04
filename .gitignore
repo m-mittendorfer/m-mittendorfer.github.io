@@ -2,3 +2,9 @@
 *.swp
 *.swo
 images/.Photo2.jpeg.icloud
+
+# jekyll
+.bundle
+Gemfile.lock
+_site
+.sass-cache

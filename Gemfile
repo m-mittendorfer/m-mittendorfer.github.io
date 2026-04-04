@@ -26,3 +26,5 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "minimal-mistakes-jekyll"
 end
+
+gem "webrick", "~> 1.9"
