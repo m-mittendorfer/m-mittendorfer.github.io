@@ -6,6 +6,10 @@ permalink: /talks/2022-OperationalisationContrast
 venue: "Fun*Cog Research Group"
 date: 2022-12-05
 location: "online"
+citation: 'Mittendorfer, Matthias. 2022. Towards an operationalisation of Contrast. (Talk presented in Fun*Cog Research Group, online).'
+type: other
+link-type: slides
+link: /files/FunCog_contrast.pdf
 ---
 
 

@@ -1,0 +1,7 @@
+{% include base_path %}
+
+<tr>
+  <td style='border:none;vertical-align:top;width:110px;'>{{ post.course-years }}</td>
+  <td style='border:none;vertical-align:top;'>{{ post.course-level }}</td>
+  <td style='border:none;vertical-align:top;'>{% if post.course-link != nil %}<a href='{{ post.course-link }}'>{% endif %}{{ post.title }}{% if post.course-link != nil %}</a>{% endif %}<br>{{ post.content }}</td>
+</tr>

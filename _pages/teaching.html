@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% assign teaching = site.teaching | reverse %}
+
+<table style='font-size:18px;border:none;'>
+  {% for post in teaching %}
+    {% include archive-single-teaching.html %}
+  {% endfor %}
+</table>
