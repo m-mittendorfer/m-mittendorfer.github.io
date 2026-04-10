@@ -11,4 +11,4 @@ course-link: 'https://ufind.univie.ac.at/en/course.html?lv=129002&semester=2025W
 course-level: BA
 ---
 
-Taught a weekly one hour course that is aimed at helping students develop practicacl skills in phonetic transcription. 
+Taught a weekly one hour course that is aimed at helping students develop practical skills in phonetic transcription. 
